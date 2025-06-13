@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.droid</groupId>
 	<artifactId>droid-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>droid-api</name>
 	<description>Droid</description>
 	<url/>
